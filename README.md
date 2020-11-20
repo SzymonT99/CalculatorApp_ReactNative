@@ -1,5 +1,5 @@
 Calculator written using React Native.
-The application is based on the use of the evlal function.
+The application is based on the use of the eval function.
 
 The portrait layout.
 
