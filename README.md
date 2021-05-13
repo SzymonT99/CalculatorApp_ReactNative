@@ -1,10 +1,16 @@
-Calculator written using React Native.
+# Calculator - React Native
 The application is based on the use of the eval function.
 
-The portrait layout.
+## Technologies 
+- Java Script
+- React Native
 
-![alt text](https://github.com/SzymonT99/CalculatorApp_ReactNative/blob/master/images/portrait.png?raw=true)
+## Presentation
 
-The landscape layout.
+#### The portrait layout
+<img src="https://github.com/SzymonT99/calculator-react-native/blob/master/images/portrait.gif" width="330" height="650">
+<br />
 
-![alt text](https://github.com/SzymonT99/CalculatorApp_ReactNative/blob/master/images/landscape.png?raw=true)
+#### The landscape layout
+<img src="https://github.com/SzymonT99/calculator-react-native/blob/master/images/use-eval.gif" width="650" height="330">
+<br />
