@@ -2,7 +2,7 @@
 The application is based on the use of the eval function.
 
 ## Technologies 
-- Java Script
+- JavaScript
 - React Native
 
 ## Presentation
